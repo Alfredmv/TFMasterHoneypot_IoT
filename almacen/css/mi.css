@@ -1,0 +1,37 @@
+canvas{
+
+  width: 100%;
+  height: auto;
+}
+
+.abs-center0 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 30vh;
+}
+
+.abs-center1 {
+    display: flex;
+    min-height: 50vh;
+}
+
+.form70 {
+    width: 70%;
+}
+
+.form90 {
+    width: 90%;
+}
+
+/*mensajes de error y notificaciones fuertes */
+.error {
+    color: red;
+    font-size: 17px;
+    font-family: Arial;
+}
+
+
+
+
+
